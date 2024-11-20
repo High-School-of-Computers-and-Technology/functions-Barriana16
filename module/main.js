@@ -23,3 +23,7 @@ do something like this.
 */
 
 
+console.log(f.sort([200,4,678,475,8,90,84]))
+console.log(f.add(20,49))
+console.log(f.multiply(4,8,7))
+console.log(f.divide(5,35))
